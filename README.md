@@ -51,4 +51,4 @@ The graph will group and display the users in 3 section based on their highest s
 
  
 
-In order to run KiddyWrite, you need to install and run its [backend](http://dev.nodeca.com) in and provide the necessary environment variables.
+In order to run KiddyWrite, you need to install and run its [backend](https://github.com/He-Nd/kiddy-write-backend) in and provide the necessary environment variables.
