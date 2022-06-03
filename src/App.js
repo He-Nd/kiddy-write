@@ -1,7 +1,7 @@
 import React, { Fragment, useState, useEffect } from "react";
 import { UserContext } from "./contexts";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import AppBar from "./components/AppBar";
 import {
   HOME_PATH,
