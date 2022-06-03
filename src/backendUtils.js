@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = "http://localhost:4000";
+const baseURL = process.env.REACT_APP_BACKEND_URL;
 
 export async function register(email, password) {
   const res = await axios.post(`${baseURL}/users/register`, {
