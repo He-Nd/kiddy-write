@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/kiddy-write/static/js/main.5b146757.chunk.js",
+    "main.js.map": "/kiddy-write/static/js/main.5b146757.chunk.js.map",
+    "runtime-main.js": "/kiddy-write/static/js/runtime-main.3d215715.js",
+    "runtime-main.js.map": "/kiddy-write/static/js/runtime-main.3d215715.js.map",
+    "static/js/2.9f1e22fc.chunk.js": "/kiddy-write/static/js/2.9f1e22fc.chunk.js",
+    "static/js/2.9f1e22fc.chunk.js.map": "/kiddy-write/static/js/2.9f1e22fc.chunk.js.map",
+    "index.html": "/kiddy-write/index.html",
+    "static/js/2.9f1e22fc.chunk.js.LICENSE.txt": "/kiddy-write/static/js/2.9f1e22fc.chunk.js.LICENSE.txt",
+    "static/media/pattern.9d309135.png": "/kiddy-write/static/media/pattern.9d309135.png",
+    "static/media/pencil.cbfd41e3.svg": "/kiddy-write/static/media/pencil.cbfd41e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d215715.js",
+    "static/js/2.9f1e22fc.chunk.js",
+    "static/js/main.5b146757.chunk.js"
+  ]
+}
