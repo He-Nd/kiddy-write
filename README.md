@@ -2,6 +2,8 @@
 
 KiddyWrite is a responsive web application that helps young kids learn how to write English alphabets and improve their handwriting by using a tablet or a stylus following the [gamification](https://en.wikipedia.org/wiki/Gamification) concept.
 
+### :point_right: [Click Here for Live Demo](https://he-nd.github.io/kiddy-write/) :point_left:
+
 ## How it works
  
 Each user should have an account by signing in to login in after and start playing the game.
@@ -36,16 +38,16 @@ The graph will group and display the users in 3 section based on their highest s
 
  
 
-- Tesseract for OCR.
-- Fabric for the whiteboard canvas.
+- [Tesseract](https://www.npmjs.com/package/tesseract.js/v/2.1.1) for OCR.
+- [Fabric](https://www.npmjs.com/package/fabric) for the whiteboard canvas.
 - [React](https://reactjs.org/)
-- material UI
-- MongoDB
-- Axios
-- Node.js
-- Express
-- JWT for authentication.
-- Chart.js for graph display.
+- [material UI](https://mui.com/)
+- [MongoDB](mongodb.com)
+- [Axios](https://axios-http.com/docs/intro)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [JWT](https://jwt.io/) for authentication.
+- [Chart.js](https://www.chartjs.org/) for graph display.
 
 ## Installation
 
